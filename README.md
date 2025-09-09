@@ -22,15 +22,15 @@ Browse all meal categories in a visually appealing grid.
 
 ### 🟠 Meals List Screen  
 View meals of the selected category with time, difficulty, and price tags.  
-![Meals List](screenshots/ready1.png)  
+![Meals List](assets/screenshoots/ready1.png)  
 
 ### 🔵 Meal Detail Screen  
 Get full details including ingredients, cooking steps, and dietary labels (Gluten-Free, Vegan, etc).  
-![Meal Detail](screenshots/ready1.png)  
+![Meal Detail](assets/screenshoots/ready1.png)  
 
 ### ❤️ Favourite Meals Screen  
 Quickly access the meals you have marked as favorites.  
-![Favourites Screen](screenshots/ready2.png)  
+![Favourites Screen](assets/screenshoots/ready2.png)  
 
 ---
 
