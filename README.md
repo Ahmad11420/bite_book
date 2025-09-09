@@ -1,45 +1,39 @@
-🍴 BiteBook
+# 🍴 BiteBook  
 
-BiteBook is a Flutter-based mobile application designed for browsing and managing meals/recipes.
-Users can explore categories of meals, view detailed recipes, and save their favorites for quick access.
+BiteBook is a Flutter-based mobile application designed to browse meals, explore recipes, and manage your favorite dishes.  
 
-🚀 Features
+---
 
-Browse meals by categories
+## 🚀 How It Works  
+- Select a **category** to explore different types of meals  
+- Browse the **meals list** of the selected category  
+- Open a **meal detail** screen to view ingredients, recipe instructions, and dietary info  
+- Save your preferred meals into **Favorites** for quick access later  
 
-View meal details including time, complexity, and affordability
+---
 
-See complete ingredients & recipe instructions
+## 📱 Screenshots  
 
-Mark meals as Favorites
+### 🟢 App Flow (Categories → Meals List → Meal Detail)  
+- **Categories Screen** → Shows all meal categories in a grid layout  
+- **Meals List Screen** → Displays meals of the selected category with time, complexity, and affordability  
+- **Meal Detail Screen** → Shows complete ingredients, recipe, and dietary labels like Gluten Free, Vegan, etc  
 
-Simple & clean UI with images
+![App Flow](assets/screenshoots/ready1.png)  
 
-📱 Screenshots
-🟢 Categories Screen
+---
 
-Browse all meal categories in a visually appealing grid.
+### ❤️ Favourite Meals Screen  
+- Save meals you like into the **Favorites tab**  
+- Quickly access them anytime without browsing again  
 
+![Favourites Screen](assets/screenshoots/ready2.png)  
 
-🟠 Meals List Screen
+---
 
-Explore meals from a chosen category with cooking time, difficulty, and price tags.
+## 🛠️ Tech Stack  
+- **Flutter** (UI Development)  
+- **Dart** (Programming Language)  
+- **GetX** (State Management & Navigation)  
 
-
-🔵 Meal Detail Screen
-
-See ingredients, cooking instructions, and dietary information in detail.
-
-
-❤️ Favourite Meals Screen
-
-Save your preferred meals and access them quickly in the favorites tab.
-
-
-🛠️ Tech Stack
-
-Flutter (Frontend UI)
-
-Dart (Programming Language)
-
-GetX (State Management & Navigation)
+---
