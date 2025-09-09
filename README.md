@@ -18,7 +18,7 @@ Users can explore categories of meals, view detailed recipes, and save their fav
 
 ### 🟢 Categories Screen  
 Browse all meal categories in a visually appealing grid.  
-![Categories Screen](screenshots/ready1.png)  
+![Categories Screen](assets/screenshots/ready1.png)  
 
 ### 🟠 Meals List Screen  
 View meals of the selected category with time, difficulty, and price tags.  
