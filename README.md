@@ -1,16 +1,43 @@
-# bite_book
+# 🍴 BiteBook  
 
-A new Flutter project.
+BiteBook is a Flutter-based mobile application designed for browsing and managing meals/recipes.  
+Users can explore categories of meals, view detailed recipes, and save their favorites for quick access.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Browse meals by **categories**
+- View **meal details** including time, complexity, and affordability
+- See complete **ingredients & recipe instructions**
+- Mark meals as **Favorites**
+- Simple & clean **UI with images**
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Screenshots  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🟢 Categories Screen  
+Browse all meal categories in a visually appealing grid.  
+![Categories Screen](screenshots/ready1.png)  
+
+### 🟠 Meals List Screen  
+View meals of the selected category with time, difficulty, and price tags.  
+![Meals List](screenshots/ready1.png)  
+
+### 🔵 Meal Detail Screen  
+Get full details including ingredients, cooking steps, and dietary labels (Gluten-Free, Vegan, etc).  
+![Meal Detail](screenshots/ready1.png)  
+
+### ❤️ Favourite Meals Screen  
+Quickly access the meals you have marked as favorites.  
+![Favourites Screen](screenshots/ready2.png)  
+
+---
+
+## 🛠️ Tech Stack
+- **Flutter** (Frontend UI)  
+- **Dart** (Programming Language)  
+- **GetX** (State Management & Navigation)  
+
+---
+
